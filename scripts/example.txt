@@ -1,0 +1,6 @@
+# Sample script. Tags are optional hints; untagged lines are picked by the AI.
+[hook] Antarctica is a desert.
+[map: Antarctica] It's the driest continent on Earth.
+[number: 14.2 million km²] That's bigger than Europe.
+[image: Antarctica ice sheet aerial] Beneath it lies ninety percent of the world's ice.
+It rarely snows there, so the ice built up slowly.

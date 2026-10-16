@@ -1,0 +1,6 @@
+node_modules/
+out/
+models/
+remotion/public/gen/
+__pycache__/
+*.pyc
